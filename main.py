@@ -16,7 +16,7 @@ register = True
 looping = False
 
 # Url naar de controller.
-url = "https://habnet.nl/Data/DataController"
+url = "https://url/Data/DataController"
 
 # Post Request Data voor Login.
 if login:
